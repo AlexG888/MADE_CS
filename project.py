@@ -1,3 +1,6 @@
+def summ(a, b):
+	return a + b
+
 a = 2 + 3
 b = a + a
 
